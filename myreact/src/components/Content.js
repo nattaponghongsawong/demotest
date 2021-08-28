@@ -4,7 +4,7 @@ export default function Content() {
     return (
         <div className="content-wrapper">
            
-            <h1>benznakubs</h1>
+            <h1>benznakubss</h1>
          
         </div>
     )
