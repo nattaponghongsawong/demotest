@@ -2,8 +2,10 @@ import React from 'react'
 
 export default function Content() {
     return (
-        <div>
-            <h1> Content </h1>
+        <div className="content-wrapper">
+           
+            <h1>benznakub</h1>
+        
         </div>
     )
 }
