@@ -37,7 +37,11 @@ export default function Menu() {
           </a>
         </li>
         <li className="nav-item">
+<<<<<<< HEAD
           <a href="pages/kanban.html" className="nav-link">
+=======
+          <a href="index3.html" className="nav-link">
+>>>>>>> 304717f1744e632fbdb3212980a2179b186d2240
             <i className="nav-icon fas fa-user-friends" />
             <p>
               About
